@@ -1,0 +1,11 @@
+	MyClass m = new MyClass();
+	m.disp();
+	
+	System.out.println(new MyClass());		//possible  1È¸¿ë 
+	
+	Integer i = 100;
+	Integer i = new Integer(100);
+	Integer i = a;
+	int y = 1000;
+	i = y;
+	
